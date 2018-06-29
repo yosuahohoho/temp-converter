@@ -1,0 +1,6 @@
+[package]
+name = "thermometer"
+version = "0.1.0"
+authors = ["yosuahohoho <yosuahohoho@gmail.com>"]
+
+[dependencies]
